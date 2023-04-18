@@ -1,0 +1,12 @@
+[[redirects]]
+  from = "/*"
+  to = "/"
+<<<<<<< HEAD
+  status = 404
+=======
+<<<<<<< HEAD
+  status = 404
+=======
+  status = 404
+>>>>>>> origin/main
+>>>>>>> ea8230b (the commit)
