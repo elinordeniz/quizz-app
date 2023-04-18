@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/quiz"
-  to = "/index.html"
-  status = 404
+  from = "/*"
+  to = "/"
+  status = 200
 
