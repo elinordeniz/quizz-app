@@ -10,7 +10,7 @@ const Quiz = () => {
 
 
       
-
+ 
   return (
     <div className="Quiz">
       <span className="subtitle">Welcome, {name}</span>
