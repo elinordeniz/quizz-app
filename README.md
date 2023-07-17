@@ -17,4 +17,4 @@ https://sparkling-lamington-9aaec6.netlify.app/
 
 ## Preview
 
-<img src="https://github.com/elinordeniz/quizz-app/blob/main/public/quiz.png" width="374" height="600"/>
+<img src="https://github.com/elinordeniz/quizz-app/blob/main/public/quiz.png" width="750" height="500"/>
